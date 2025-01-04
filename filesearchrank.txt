@@ -1,0 +1,10 @@
+Rank	Name	Score
+1	jl	5
+Rank	Name	Score
+2	b	4
+Rank	Name	Score
+3	nt	3
+Rank	Name	Score
+4	a	2
+Rank	Name	Score
+5	c	2
